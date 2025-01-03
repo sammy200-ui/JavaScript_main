@@ -8,6 +8,6 @@ let greeting = "Hi";
 const pi = 3.14;     // Value cannot be changed.
 var color = "blue";  // Function-scoped.
 
-greeting = "Hello";  // Works for `let`.
-color = "red";       // Works for `var`.
+greeting = "Hello";  // Works for let.
+color = "red";       // Works for var.
 pi = 3.14159;        // Cannot reassign `const`.
