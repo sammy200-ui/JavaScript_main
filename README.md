@@ -24,7 +24,7 @@ I am currently learning JavaScript from **YouTube tutorials** and tackling begin
 ## 🎯 Progress Tracker  
 | Module                  | Status     | Completion Date |  
 |-------------------------|------------|-----------------|  
-| JavaScript Basics       | 🟢 Completed  | [Add Date]       |  
+| JavaScript Basics       | 🟢 Completed  | [02/01/25]       |  
 | Arrays & Objects        | 🟡 In Progress | [Add Date]       |  
 | DOM Manipulation        | 🔴 Not Started | [Add Date]       |  
 
