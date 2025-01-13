@@ -14,5 +14,14 @@ pi = 3.14159;        // Cannot reassign const.
 
 
 
-let discountpercentage = 55;
-let isCheap = !(discountpercentage > 50);
+// let discountpercentage = 55;
+// let isCheap = !(discountpercentage > 50);
+
+
+let fruits = ["apple", "banana", "mango"];
+// find the length of each word in the array
+for (let i = 0; i < fruits.length; i++) {
+    console.log(fruits[i].length);
+}
+
+// learn for in and for of loops
