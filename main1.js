@@ -11,3 +11,8 @@ var color = "blue";  // Function-scoped.
 greeting = "Hello";  // Works for let.
 color = "red";       // Works for var.
 pi = 3.14159;        // Cannot reassign const.
+
+
+
+let discountpercentage = 55;
+let isCheap = !(discountpercentage > 50);
