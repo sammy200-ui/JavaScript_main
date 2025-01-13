@@ -25,7 +25,7 @@ I am currently learning JavaScript from **YouTube tutorials** and tackling begin
 | Module                  | Status     | Completion Date |  
 |-------------------------|------------|-----------------|  
 | JavaScript Basics       | 🟢 Completed  | [02/01/25]       |  
-| Arrays & Objects        | 🟡 In Progress | [Add Date]       |  
+| Arrays & Objects        | 🟡 In Progress | [13/01/25]       |  
 | DOM Manipulation        | 🔴 Not Started | [Add Date]       |  
 
 ## 🛠️ Practice Questions  
