@@ -42,8 +42,6 @@ As I progress, I will work on small projects to apply what I’ve learned. Some 
 - Build a portfolio of JavaScript projects.  
 - Share my learning experience with others.  
 
-## 👨‍💻 Contributions  
-If you have any suggestions, resources, or feedback, feel free to open an issue or create a pull request. Collaboration is always welcome!  
 
 ## 📝 Notes  
 This repository will also serve as a space to organize and share my notes and summaries of JavaScript concepts.  
