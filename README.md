@@ -35,7 +35,7 @@ I will include practice problems and solutions in this repository to solidify my
 As I progress, I will work on small projects to apply what I’ve learned. Some ideas include:  
 - A to-do list app  
 - A simple calculator  
-- A weather app using APIs  
+- A news app using APIs  
 
 ## 📌 Goals  
 - Learn at least one JavaScript framework/library (e.g., React).  
