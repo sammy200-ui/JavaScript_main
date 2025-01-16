@@ -28,8 +28,6 @@ I am currently learning JavaScript from **YouTube tutorials** and tackling begin
 | Arrays & Objects        | 🟡 In Progress | [13/01/25]       |  
 | DOM Manipulation        | 🔴 Not Started | [Add Date]       |  
 
-## 🛠️ Practice Questions  
-I will include practice problems and solutions in this repository to solidify my understanding of concepts.  
 
 ## 🌟 Projects  
 As I progress, I will work on small projects to apply what I’ve learned. Some ideas include:  
