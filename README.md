@@ -30,7 +30,7 @@ I am currently learning JavaScript from **YouTube tutorials** and tackling begin
 
 
 ## 🌟 Projects  
-As I progress, I will work on small projects to apply what I’ve learned. Some ideas include:  
+As I progress, I will make some projects 
 - A to-do list app  
 - A simple calculator  
 - A news app using APIs  
