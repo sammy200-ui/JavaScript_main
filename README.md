@@ -3,7 +3,7 @@
 Welcome to my JavaScript learning repository! This space is dedicated to documenting my progress, practice, and projects as I dive into the world of JavaScript.  
 
 ## 📋 About the Journey  
-I am currently learning JavaScript from **YouTube tutorials** and tackling beginner-to-intermediate concepts. My goal is to build a strong foundation in JavaScript, enhance my problem-solving skills, and create real-world projects.  
+I am currently learning JavaScript from **YouTube tutorials** and tackling beginner-to-intermediate concepts.
 
 ## 📚 Learning Roadmap  
 1. **Basics of JavaScript**  
