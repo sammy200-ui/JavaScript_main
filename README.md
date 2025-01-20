@@ -31,7 +31,7 @@ I am currently learning JavaScript from **YouTube tutorials** and tackling begin
 
 ## 🌟 Projects  
 As I progress, I will make some projects 
-- A to-do list app   
+- A miniature build  
 - A news app using APIs  
 
 ## 📌 Goals  
