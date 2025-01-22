@@ -24,4 +24,20 @@ for (let i = 0; i < fruits.length; i++) {
     console.log(fruits[i].length);
 }
 
-// learn for in and for of loops
+// function adder(a, b) {
+
+let calculator = {
+    add: adder,
+    sub: function(a,b ){
+        console.log(a-b)
+    },
+
+    mul:function(a,b){
+        console.log(a*b)
+    } ,
+//     // both upper and lower are same just remove the colen and the function inbuild name.
+    mul(a,b){ 
+        console.log(a*b)
+    } ,
+   
+}
