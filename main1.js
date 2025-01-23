@@ -12,9 +12,9 @@ greeting = "Hello";  // Works for let.
 color = "red";       // Works for var.
 pi = 3.14159;        // Cannot reassign const.
 
-
-// conditionals in JS
+// Conditional statements
 if(condition){
+// conditionals in JS
     // code to be executed if the condition is true
 }else if (anothercondition){
     // code to be executed if the condition is true
