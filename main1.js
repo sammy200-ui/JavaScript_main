@@ -12,11 +12,6 @@ greeting = "Hello";  // Works for let.
 color = "red";       // Works for var.
 pi = 3.14159;        // Cannot reassign const.
 
-let fruits = ["apple", "banana", "mango"];
-// find the length of each word in the array
-for (let i = 0; i < fruits.length; i++) {
-    console.log(fruits[i].length);
-}
 
 // conditionals in JS
 if(condition){
@@ -101,36 +96,39 @@ for(let i=1; i<=10; i++){ // i++ is the same as i=i+1 , it simply means take one
 }// prints the square of the numbers from 1 to 10.
 
 
+// lets do a question with arrays and loops.
+let fruits = ["apple", "banana", "mango" , "orange" , "grapes"];
+for(let i=0; i<fruits.length; i++){
+    console.log(fruits[i].length);
+}// prints the length of each fruit in the array. // 5 6 5 6 6
 
 
 
+// Functions in JS
+let calculator= {
+    add : adder , // function can be assigned to a variable.
 
+    sub : function adder(a,b){
+        console.log(a-b);
+        return a-b; // returns the value of a-b.
+    } ,
 
-
-
-
-
-
-
-
-
-
-
-
-
-// function adder(a, b) {
-let calculator = {
-    add: adder,
-    sub: function(a,b ){
-        console.log(a-b)
+    mul(a,b){ // another way of writing functions. just remove the function keyword and the colon.
+        console.log(a*b);
     },
 
-    mul:function(a,b){
-        console.log(a*b)
-    } ,
-//     // both upper and lower are same just remove the colen and the function inbuild name.
-    mul(a,b){ 
-        console.log(a*b)
-    } ,
-   
+    div :(a,b) => console.log(a/b) // Arrow function; another way of writing functions.
 }
+function adder(a,b){ // This function is stored in the add variable.
+    console.log(a+b);
+}
+
+
+
+
+
+
+
+
+
+
