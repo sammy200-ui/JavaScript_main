@@ -103,6 +103,22 @@ for(let i=0; i<fruits.length; i++){
     console.log(fruits[i].length);
 }// prints the length of each fruit in the array. // 5 6 5 6 6
 
+// While loop
+let i=1; // initialization
+while(i<=10){ // condition
+    console.log(i*i);
+    i++; // increment
+}// prints the square of the numbers from 1 to 10.
+
+// Do while loop
+let j=1; // initialization
+do{
+    console.log(i*i);
+    i++; // increment
+}
+while(i<=10); // condition
+// prints the square of the numbers from 1 to 10.
+
 
 
 // Functions in JS
