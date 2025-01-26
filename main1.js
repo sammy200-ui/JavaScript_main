@@ -140,6 +140,11 @@ function adder(a,b){ // This function is stored in the add variable.
     console.log(a+b);
 }
 
+// calling the functions
+calculator.add(2,3); // 5
+calculator.sub(2,3); // -1
+calculator.mul(2,3); // 6
+calculator.div(2,3); // 0.6666666666666666  // 2/3
 
 
 
