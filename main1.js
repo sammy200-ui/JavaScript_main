@@ -98,9 +98,9 @@ for(let i=1; i<=10; i++){ // i++ is the same as i=i+1 , it simply means take one
 
 
 // lets do a question with arrays and loops.
-let fruits = ["apple", "banana", "mango" , "orange" , "grapes"];
-for(let i=0; i<fruits.length; i++){
-    console.log(fruits[i].length);
+let fruitList = ["apple", "banana", "mango" , "orange" , "grapes"];
+for(let i=0; i<fruitList.length; i++){
+    console.log(fruitList[i].length);
 }// prints the length of each fruit in the array. // 5 6 5 6 6
 
 // While loop
@@ -147,10 +147,24 @@ calculator.mul(2,3); // 6
 calculator.div(2,3); // 0.6666666666666666  // 2/3
 
 
+// Arrays and Array methods
+let numb = [5, 6, 7, 8, 9, 10];
+numb.forEach(ele=> { 
+    console.log(ele*ele);
+}); 
 
+let numbs = [1,2,3,4,5,6,7,8,9,10];
+ 
+let even = numbs.filter(ele=> {
+    return ele%2==0;
+});
+console.log(even);
 
-
-
-
-
-
+let arr = [
+    [1,1,1],
+    [2,2,2],
+    [3,3,3]
+]
+let reuslt = [].concat(...arr);
+console.log(result);
+// output = [1,1,1,2,2,2,3,3,3]; 
