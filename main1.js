@@ -169,5 +169,5 @@ let reuslt = [].concat(...arr);
 console.log(result);
 // output = [1,1,1,2,2,2,3,3,3]; 
 
-// write a funtion to sort a array of numbers in ascending order or descending order in order  to there properties.(name, age, height, weight)
+
 
