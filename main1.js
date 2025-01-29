@@ -170,4 +170,17 @@ console.log(result);
 // output = [1,1,1,2,2,2,3,3,3]; 
 
 
+// Objects in JS
+// Objects are key value pairs.
+let student_data = {
+    "name" : "John",
+    "age" : 25,
+    "city" : "New York"
+}
+console.log(student_data.name); 
+console.log(student_data["age"]);
+console.log(student_data.city);
 
+
+// . notation is used to access the value of the key.
+// [] notation is used to access the value of the key.
