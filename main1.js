@@ -176,11 +176,42 @@ let student_data = {
     "name" : "John",
     "age" : 25,
     "city" : "New York"
+
+
 }
 console.log(student_data.name); 
 console.log(student_data["age"]);
 console.log(student_data.city);
 
-
 // . notation is used to access the value of the key.
 // [] notation is used to access the value of the key.
+
+let car={
+    brand : "skoda",
+    color : "Black",
+    carName:"slavia",
+    fuelType:["petrol","diesel","hybrid","electric"],
+    // type1
+    start(){
+        return "Car started";
+    },
+    // type2
+    stop : function(){
+        return "Car stopped";
+
+    
+    } ,
+    // type3
+    horn: () => {
+        return "Horn is working";
+    }
+
+};
+console.log(car);
+console.log(car.start()); 
+console.log(car.stop());
+console.log(car.horn());
+delete car.color; 
+
+
+// truthey and falsey values
