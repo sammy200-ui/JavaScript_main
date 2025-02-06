@@ -214,4 +214,3 @@ console.log(car.horn());
 delete car.color; 
 
 
-// truthey and falsey values
