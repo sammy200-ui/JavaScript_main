@@ -83,4 +83,3 @@ let total = Object.values(sub).reduce((a,b) => a+b);
 console.log(total);
 
 
- new promise()
