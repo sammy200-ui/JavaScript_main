@@ -21,7 +21,6 @@ promise
     .then(result => console.log(result))
     .catch(error => console.log(error));
 
-
     let markss = 40;
     let promisee = new Promise((resolve, reject) => {
         if (marks == 40) {
@@ -74,3 +73,14 @@ async function fetchData(){
         console.log(error);
     }
 }
+let sub = {
+    d: 50,
+    w: 60,
+    m: 70,
+    i: 80
+};
+let total = Object.values(sub).reduce((a,b) => a+b);
+console.log(total);
+
+
+ new promise()
