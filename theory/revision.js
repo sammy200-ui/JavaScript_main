@@ -36,7 +36,6 @@ promise
 
 
 //fetch it atleast take one argument
-
 let value = fetch('https://jsonplaceholder.typicode.com/todos/1')
     .then((res) =>{
         return res.json();
@@ -51,7 +50,6 @@ let value = fetch('https://jsonplaceholder.typicode.com/todos/1')
         console.log(error);
     }
     );
-    
 
 // async and await
 //async deifnes a function that will always return a promise
@@ -81,5 +79,7 @@ let sub = {
 };
 let total = Object.values(sub).reduce((a,b) => a+b);
 console.log(total);
+
+
 
 
